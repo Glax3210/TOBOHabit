@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TOBOHabit/static/css/main.29062725.css",
+    "main.js": "/TOBOHabit/static/js/main.6c0bfabc.js",
+    "static/js/453.5b299d38.chunk.js": "/TOBOHabit/static/js/453.5b299d38.chunk.js",
+    "service-worker.js": "/TOBOHabit/service-worker.js",
+    "static/media/logo192-alpha.png": "/TOBOHabit/static/media/logo192-alpha.8533f0ee32bc19d301ce.png",
+    "static/media/calendar.svg": "/TOBOHabit/static/media/calendar.65e1cc974c8ca39b901c9bdb5369b502.svg",
+    "static/media/information.svg": "/TOBOHabit/static/media/information.88749598f9563672839cea354868f9dc.svg",
+    "static/media/upload.svg": "/TOBOHabit/static/media/upload.19c783f038edb89268f4ad23c57b727b.svg",
+    "static/media/import.svg": "/TOBOHabit/static/media/import.5252fcbbd840a3e1beb648237f9343d2.svg",
+    "static/media/table-of-contents.svg": "/TOBOHabit/static/media/table-of-contents.a34f40dcb3ddfd686d6cf71679169d8a.svg",
+    "index.html": "/TOBOHabit/index.html",
+    "main.29062725.css.map": "/TOBOHabit/static/css/main.29062725.css.map",
+    "main.6c0bfabc.js.map": "/TOBOHabit/static/js/main.6c0bfabc.js.map",
+    "453.5b299d38.chunk.js.map": "/TOBOHabit/static/js/453.5b299d38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29062725.css",
+    "static/js/main.6c0bfabc.js"
+  ]
+}
